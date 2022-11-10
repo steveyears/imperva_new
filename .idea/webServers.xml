@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4bd6bb0e-217a-47be-9e45-4934541ef0a6" name="Imperva Dev" url="http://imperva.dev">
+        <fileTransfer accessType="SFTP" host="137.184.35.90" port="22" sshConfigId="8ed56059-3180-472c-aee1-496dd9ced8f8" sshConfig="syears@137.184.35.90:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

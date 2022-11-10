@@ -1,0 +1,15 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Imperva - Home{% endblock %}
+
+{% block body %}
+    {{include('page_elements/main_nav.twig') }}
+    {{include('page_elements/home-page-carousel.twig') }}
+    {{include('page_elements/newspromo.twig') }}
+    {{include('page_elements/product_portfolio.twig') }}
+    {{include('page_elements/analysts.twig') }}
+    {{include('page_elements/casestudy_discovery.twig') }}
+    {{include('page_elements/logos_scroll.twig') }}
+    {{include('page_elements/articles_promo.twig') }}
+    {{ include('page_elements/ntt-testimonial-video.twig') }}
+{% endblock %}
