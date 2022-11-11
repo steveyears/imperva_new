@@ -3,3 +3,11 @@ node_modules
 /.yarn/cache
 /.DS_Store
 /.gitignore
+.yarn/.DS_Store
+var
+.yarn
+*.DS_Store
+var/cache/dev/profiler/index.csv
+var/cache/dev/twig/fc/fcb67189f5054c2cf00e7334bbd635a0.php
+var/log/dev.log
+.DS_Store
